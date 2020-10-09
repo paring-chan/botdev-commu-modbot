@@ -1,0 +1,12 @@
+{
+  "token": "asdf",
+  "database": {
+    "client": "mysql",
+    "connection": {
+      "host": "asdf",
+      "port": 3306,
+      "user": "asdf",
+      "password": "asdf"
+    }
+  }
+}
